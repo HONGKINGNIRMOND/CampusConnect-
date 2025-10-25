@@ -150,18 +150,11 @@ Each microservice can be developed, tested, and deployed independently.
 
 ## Images
 
-- `images/user service.png` — User Service UI (students/faculties)
-- `images/submission-service.png` — Submission Service UI (assignments/submissions)
+- `images/user-service-ui.png` — User Service UI (students/faculties)
+- `images/submission-service-ui.png` — Submission Service UI (assignments/submissions)
 
 Embedded previews (these will show up on GitHub if the files exist):
-![User Service UI](images/user service.png)
-![Submission Service UI](images/submission service.png)
+![User Service UI](images/user-service-ui.png)
+![Submission Service UI](images/submission-service-ui.png)
 
-If you don't have these files yet, add images to the `images/` folder and commit them. On Windows PowerShell you can copy images into the folder with a command like:
-
-```powershell
-Copy-Item -Path C:\path\to\your\image.png -Destination .\images\
-```
-
-Alternatively, add images using File Explorer by copying them into the `images` folder at the repository root.
 
