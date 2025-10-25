@@ -1,0 +1,14 @@
+com\university\lms\submission\controller\ProjectController.class
+com\university\lms\submission\model\Project.class
+com\university\lms\submission\SubmissionServiceApplication.class
+com\university\lms\submission\repository\ProjectRepository.class
+com\university\lms\submission\service\ProjectService.class
+com\university\lms\submission\controller\AssignmentController.class
+com\university\lms\submission\model\Submission.class
+com\university\lms\submission\repository\SubmissionRepository.class
+com\university\lms\submission\controller\SubmissionController.class
+com\university\lms\submission\repository\AssignmentRepository.class
+com\university\lms\submission\model\Assignment.class
+com\university\lms\submission\service\AssignmentService.class
+com\university\lms\submission\service\SubmissionService.class
+com\university\lms\submission\controller\HomeController.class

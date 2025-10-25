@@ -1,0 +1,10 @@
+com\university\lms\user\controller\FacultyController.class
+com\university\lms\user\repository\FacultyRepository.class
+com\university\lms\user\UserServiceApplication.class
+com\university\lms\user\model\Faculty.class
+com\university\lms\user\model\Student.class
+com\university\lms\user\repository\StudentRepository.class
+com\university\lms\user\service\FacultyService.class
+com\university\lms\user\controller\HomeController.class
+com\university\lms\user\controller\StudentController.class
+com\university\lms\user\service\StudentService.class

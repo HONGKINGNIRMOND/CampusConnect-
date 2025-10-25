@@ -1,0 +1,10 @@
+D:\FSD\spring boot\spring-boot-lms\user-service\src\main\java\com\university\lms\user\controller\FacultyController.java
+D:\FSD\spring boot\spring-boot-lms\user-service\src\main\java\com\university\lms\user\controller\HomeController.java
+D:\FSD\spring boot\spring-boot-lms\user-service\src\main\java\com\university\lms\user\controller\StudentController.java
+D:\FSD\spring boot\spring-boot-lms\user-service\src\main\java\com\university\lms\user\model\Faculty.java
+D:\FSD\spring boot\spring-boot-lms\user-service\src\main\java\com\university\lms\user\model\Student.java
+D:\FSD\spring boot\spring-boot-lms\user-service\src\main\java\com\university\lms\user\repository\FacultyRepository.java
+D:\FSD\spring boot\spring-boot-lms\user-service\src\main\java\com\university\lms\user\repository\StudentRepository.java
+D:\FSD\spring boot\spring-boot-lms\user-service\src\main\java\com\university\lms\user\service\FacultyService.java
+D:\FSD\spring boot\spring-boot-lms\user-service\src\main\java\com\university\lms\user\service\StudentService.java
+D:\FSD\spring boot\spring-boot-lms\user-service\src\main\java\com\university\lms\user\UserServiceApplication.java
